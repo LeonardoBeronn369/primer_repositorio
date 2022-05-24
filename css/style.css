@@ -3,5 +3,9 @@ background-color: bisque;
 }
 
 .titulo{
+color: blue;
+}
 
+.resaltado {
+    background-color: blueviolet;
 }
